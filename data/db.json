@@ -1,0 +1,37 @@
+{
+    "char": [
+      {
+        "id": 1,
+        "name": "Mark",
+        "race": "Human",
+        "status": "Full-Health",
+        "comment": "",
+        "health": "150",
+        "stamina": "200",
+        "gold": "75",
+        "location": ""
+      },
+      {
+        "id": 2,
+        "name": "Goerge",
+        "race": "Demon",
+        "status": "Enraged",
+        "health": "150",
+        "stamina": "200",
+        "gold": "75",
+        "location": "",
+        "comment": ""
+      },
+      {
+        "id": 3,
+        "name": "Angela",
+        "race": "Fairy",
+        "status": "Full-Health",
+        "health": "150",
+        "stamina": "200",
+        "gold": "75",
+        "location": "",
+        "comment": ""
+      }
+    ]
+  }
